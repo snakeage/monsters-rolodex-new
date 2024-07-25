@@ -1,0 +1,10 @@
+{
+    "jshint.config": "",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "beautify.ignore": "",
+    "editor.autoSurround": "never",
+    "prettier.useEditorConfig": false,
+    "eslint.codeActionsOnSave.rules": null
+}
